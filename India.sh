@@ -1,3 +1,3 @@
-git clone https://GitHub.com/Indian-Userbot/Indian_Userbot
+git clone https://GitHub.com/Indian-Userbot/Indian_userbot
 cd Indian_userbot
-python3 -m Andencento
+python3 -m userbot
