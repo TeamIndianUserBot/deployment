@@ -5,5 +5,5 @@
 
 ## ## IndianUserbot Session
 
-[![Andencento Session](https://repl.it/badge/github/TeamIndianUserBot/Indianuserbot)](https://replit.com/@TeamIndian/StringSession?v=1)
+[![Andencento Session](https://repl.it/badge/github/Andencento/Andencento)](https://replit.com/@TeamIndian/StringSession?v=1)
 
