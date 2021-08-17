@@ -4,4 +4,4 @@
 
 
 ## IndianUserbot Session
-[![DeploymentSession](https://repl.it/badge/github/TeamIndianUserBot/TeamIndianUserBot)(https://replit.com/@TeamIndian/StringSession?v=1)
+[![DeploymentSession][(https://repl.it/badge/github/TeamIndianUserBot/Indianuserbot)](https://replit.com/@TeamIndian/StringSession?v=1)
