@@ -1,11 +1,11 @@
 {
   "name": "IndianBot",
-  "description": "Userbot created by @Andencento for any problems or support",
-  "logo": "https://telegra.ph/file/b6cd017959adc2814db5f.jpg",
+  "description": "Userbot created by @TeamIndianUserBot for any problems or support",
+  "logo": "https://telegra.ph/file/396d449c3b7c38eb8c19c.jpg",
   "keywords": ["telegram", "userbot", "plugin", "modular", "productivity"],
-  "repository": "https://github.com/india",
-  "website": "#TODO",
-  "success_url": "#TODO",
+  "repository": "https://github.com/TeamIndianUserBot/Indianuserbot",
+  "website": "https://github.com/TeamIndianUserBot/Indianuserbot",
+  "success_url": "https://t.me/TeamIndianUserBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
