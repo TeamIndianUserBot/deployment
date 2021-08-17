@@ -4,4 +4,4 @@
 
 
 ## IndianUserbot Session
-[![Andencento Session](https://repl.it/badge/github/Andencento/Andencento)](https://replit.com/@madboy482/Session-Andencento/)
+[![Andencento Session](https://repl.it/badge/github/TeamIndianUserBot/deployment)](https://replit.com/@TeamIndian/StringSession?v=1)
